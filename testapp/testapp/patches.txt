@@ -1,0 +1,6 @@
+# This file lists all the patches that have been applied to this app.
+# Each line represents a patch and should be in the format:
+# {app_name}.{patch_module}.{patch_function}
+#
+# Example:
+# testapp.patches.v1_0.update_field_properties
